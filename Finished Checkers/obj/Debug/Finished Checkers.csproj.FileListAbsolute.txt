@@ -1,0 +1,6 @@
+C:\Users\CCA009\Desktop\portfolio projects\Finished Checkers\Finished Checkers\Finished Checkers\bin\Debug\Finished Checkers.exe.config
+C:\Users\CCA009\Desktop\portfolio projects\Finished Checkers\Finished Checkers\Finished Checkers\bin\Debug\Finished Checkers.exe
+C:\Users\CCA009\Desktop\portfolio projects\Finished Checkers\Finished Checkers\Finished Checkers\bin\Debug\Finished Checkers.pdb
+C:\Users\CCA009\Desktop\portfolio projects\Finished Checkers\Finished Checkers\Finished Checkers\obj\Debug\Finished Checkers.csproj.CoreCompileInputs.cache
+C:\Users\CCA009\Desktop\portfolio projects\Finished Checkers\Finished Checkers\Finished Checkers\obj\Debug\Finished Checkers.exe
+C:\Users\CCA009\Desktop\portfolio projects\Finished Checkers\Finished Checkers\Finished Checkers\obj\Debug\Finished Checkers.pdb
